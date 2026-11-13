@@ -24,6 +24,13 @@ the house env over HTTP and replies in UCI.
 - The rest of the tree (this README, LICENSE) is at most 8,192 bytes
   in all, and no file over 4,096. MIT licence.
 
+## Practice results
+
+Practice trials against the kit's house engines (dev phase):
+trial 0 Elo 1,087, trial 1 Elo 989, trial 2 Elo 989 — mean 1,022.
+That is below the 1,154 floor for the final and below the sunfish
+baseline (~1,325), so this is submitted as a test entry.
+
 ## Grade it locally
 
 You need the `makefun` CLI and the competition's dev kit. From inside
